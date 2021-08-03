@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Blood Donation Campaign</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="TODO" />
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="btn_forgot_password">Forget you Password?</string>
+    <string name="inputemail">email</string>
+    <string name="text" />
+    <string name="name">Name:</string>
+    <string name="fullname">Fullname</string>
+    <string name="contact_no">Contact No:</string>
+    <string name="mobile">Contact no</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confrim Password</string>
+    <string name="campaign">CAMPAIGN</string>
+    <string name="camp">BLOOD DONATION CAMPAIGN</string>
+    <string name="needblood">NEED BLOOD</string>
+    <string name="submit">Regsiter</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="admin">ADMIN</string>
+    <string name="campaignn">Campaign</string>
+    <string name="addcampaign">ADD NEW BLOOD CAMPAIGN</string>
+    <string name="requestblood">ADD REQUEST BLOOD</string>
+    <string name="campp">BLOOD CAMPAIGN</string>
+    <string name="needed">FIND BLOOD DONOR</string>
+    <string name="addevent">Add New Blood Event</string>
+    <string name="btn_addevent">ADD EVENT</string>
+    <string name="name_event"></string>
+    <string name="event_details">Event Details</string>
+    <string name="event_location">Event Location</string>
+    <string name="event_date">Event Date</string>
+    <string name="event_poster">Picture</string>
+    <string name="btn_browse">Browse</string>
+    <string name="addrequest">ADD NEW REQUEST</string>
+    <string name="help">NEED HELP !!</string>
+    <string name="needName">Full Name</string>
+    <string name="needContact">Contact Number</string>
+    <string name="needBlood">Blood Group</string>
+    <string name="textName">Full Name: </string>
+    <string name="textContact">Contact Number: </string>
+    <string name="textBlood">Blood Group :</string>
+    <string name="textNumber">Number of Blood Bag Needed:</string>
+    <string name="numberbag">Eg: 1</string>
+    <string name="textLoc">Location for Blood Request :</string>
+    <string name="needLoc">Eg:Keningau</string>
+    <string name="event_hp">Contact Number</string>
+    <string name="daate">Date</string>
+    <string name="datee">Date =</string>
+    <string name="eventname">Event Name</string>
+    <string name="eevent">Event Name =</string>
+    <string name="blood">Blood Campaign</string>
+    <string name="event1">Event Name =</string>
+    <string name="event2">Details =</string>
+    <string name="event3">Date =</string>
+    <string name="event4">Location       =</string>
+    <string name="event5">Contact Number =</string>
+    <string name="show1">Name</string>
+    <string name="show2">Details</string>
+    <string name="show3">Date</string>
+    <string name="show4">Location</string>
+    <string name="show5">Contact</string>
+    <string name="evnt1">Event Name</string>
+    <string name="alreadylogin">Already Registered. Login Now!</string>
+    <string name="title2">BloodCampApp</string>
+    <string name="forget">FORGOT PASSWORD</string>
+    <string name="forgetpassword">RESET PASSWORD</string>
+    <string name="readevent">Blood Donation Campaign</string>
+    <string name="editevent">Blood Donation Campaign</string>
+    <string name="addrequestblood">ADD REQUEST BLOOD</string>
+    <string name="full">Full Name =</string>
+    <string name="bloodg">Blood Type =</string>
+    <string name="rdetails">Request Donar Details</string>
+    <string name="backk">ADD NEW REQUEST DONOR</string>
+    <string name="mainpage">BACK TO MAINPAGE</string>
+    <string name="signout">SIGN OUT</string>
+    <string name="blogin">BACK</string>
+    <string name="buttonback">BACK</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="todo">TODO</string>
+    <string name="dail">CONTACT NOW</string>
+    <string name="event_name">Event Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="location">Location</string>
+    <string name="event_time">Event Time</string>
+    <string name="backaddevent">ADD NEW EVENT</string>
+    <string name="favorites">Favorites</string>
+    <string name="home">Home</string>
+    <string name="profile">Project</string>
+
+
+    <string name="eligibility_">Eligibility Requirements</string>
+    <string name="syarat">1. Well and healthy\n2. Age:\n -First time donor: 18-60 years old
+        \n -Regular donor: 18-65 years old\n -Prospective donor aged 17 years old must provide written consent from his or her parents / guardian
+        \n3. Weight : 45kg and above
+\n4. Had minimum of 5 hours sleep
+\n5. Had a meal before blood donation
+\n6. No medical illness
+\n7. Not involved in any high risk activities such as :-
+\n -Same gender sex (homosexual)
+\n -Bisexual
+\n -Had sex with commercial sex worker
+\n -Change in sexual partner
+\n -Took intravenous drug
+\n -A sexual partner of any of the above
+\n8. Last whole blood donation was 3 months ago
+\n9. For female donors : not pregnant, last menstrual period was more than 3 days ago, and not breastfeeding</string>
+    <string name="info_">Giving blood saves lives. The blood you give is a lifeline in an emergency and for people who need long-term treatments. Many people would not be alive today if donors had not generously given their blood. \n\nWhy we need you to give blood?\n\nWe need over 6000 blood donations every day to treat patients in need for people to give blood.\n\nEach year we need approximately 200000 new donors, as some donors can no longer give blood.Most people between ages of 17-65 are able to give blood.Around half our current donors are over 45.That is why we need more young people to start giving blood.</string>
+    <string name="registerr">REGISTER</string>
+    <string name="full_namee">Full Name</string>
+    <string name="bckmainpage">MAINPAGE</string>
+    <string name="edit">EDIT PROFILE</string>
+    <string name="updateprofile">UPDATE PROFILE</string>
+    <string name="age">Age</string>
+    <string name="bloodd">Blood Group</string>
+    <string name="admin_page">ADMIN PAGE</string>
+    <string name="information">INFORMATION</string>
+    <string name="requestt">Fill-in the blood request form below.</string>
+    <string name="image">Add Poster</string>
+</resources>
